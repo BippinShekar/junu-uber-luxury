@@ -1,7 +1,7 @@
-:HL["/junu-uber-luxury/_next/static/chunks/1h7p682k20wdd.css","style"]
+:HL["/junu-uber-luxury/_next/static/chunks/29hmfs4x_04a-.css","style"]
 :HL["/junu-uber-luxury/_next/static/media/05c01535fa71f901-s.p.2sx3y6abg2q3t.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/junu-uber-luxury/_next/static/media/61f83d1116c3c119-s.p.1i770ixt5m62g.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/junu-uber-luxury/_next/static/media/daa29454a3e61cb2-s.p.25_z0nxfvnd9o.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/junu-uber-luxury/images/products/after.jpg","image"]
 :HL["/junu-uber-luxury/logo-light.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"haJUlm91MgjjMzf-pfeKF"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"qR8Dr4MAoWd3fBNe9hI4m"}
