@@ -4,4 +4,4 @@
 :HL["/junu-uber-luxury/_next/static/media/daa29454a3e61cb2-s.p.25_z0nxfvnd9o.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/junu-uber-luxury/images/products/after.jpg","image"]
 :HL["/junu-uber-luxury/logo-light.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"w89nvSFCYJJ6p1uWiDppQ"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"JTwYqueUZsMbFpfW0sZeR"}
