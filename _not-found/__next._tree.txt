@@ -1,2 +1,2 @@
-:HL["/junu-uber-luxury/_next/static/chunks/03lbvafumkje2.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"nTjtrwVONN5s2pFK2UtRG"}
+:HL["/junu-uber-luxury/_next/static/chunks/2odngse9_6aqy.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"cRr2nEmIlx7TQ3kx-y7oN"}
